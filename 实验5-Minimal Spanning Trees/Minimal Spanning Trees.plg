@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Minimal Spanning Trees - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\KINGYA~1\AppData\Local\Temp\RSPD79E.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/Minimal Spanning Trees.pdb" /debug /machine:I386 /out:"Debug/Minimal Spanning Trees.exe" /pdbtype:sept 
+".\Debug\Minimal Spanning Trees.obj"
+]
+Creating command line "link.exe @C:\Users\KINGYA~1\AppData\Local\Temp\RSPD79E.tmp"
+<h3>Output Window</h3>
+Linking...
+LINK : warning LNK4076: invalid incremental status file "Debug/Minimal Spanning Trees.ilk"; linking nonincrementally
+LINK : fatal error LNK1207: incompatible PDB format in "E:\Doc\Math\Discrete Mathematical Structures\实验5-Minimal Spanning Trees\Debug\Minimal Spanning Trees.pdb"; delete and rebuild
+执行 link.exe 时出错.
+
+
+
+<h3>Results</h3>
+Minimal Spanning Trees.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
